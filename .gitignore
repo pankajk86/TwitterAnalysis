@@ -28,6 +28,10 @@ dist
 test-output
 build.log
 
+.cache-main
+.cache-tests
+.gitignore
+
 # other scm
 .svn
 .CVS
