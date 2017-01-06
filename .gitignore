@@ -31,7 +31,7 @@ build.log
 .cache-main
 .cache-tests
 .gitignore
-
+.DS_Store
 # other scm
 .svn
 .CVS
